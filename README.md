@@ -30,11 +30,11 @@ This project applies machine learning techniques to predict house prices based o
 ### Dataset link 
 - https://www.kaggle.com/datasets/prevek18/ames-housing-dataset
 - **Total Records:** 2,930 residential properties
-- **Number of Features:** 82
+- **Number of Features:** 81
 - The dataset includes various property attributes such as size, structure, location, and more.
 - Used for training and testing predictive models.
 
 ---
 
 ## 📈 Results Summary
-![Image](https://github.com/user-attachments/assets/6b5f82b7-d2f8-4cae-b4d0-949ea781f627)
+![Image](https://github.com/user-attachments/assets/b24d5ba8-5354-45df-a5d9-aed0a5fef95b)
